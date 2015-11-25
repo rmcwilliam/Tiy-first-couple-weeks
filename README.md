@@ -1,0 +1,1 @@
+First couple weeks at TIY learning ruby fundamentals.
